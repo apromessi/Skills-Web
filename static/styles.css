@@ -1,0 +1,17 @@
+input {
+	background-color: #88B3F9;
+}
+
+#submit {
+	background-color: yellow;
+}
+.important {
+	font-weight: bold;
+}
+div {
+	padding: 10px 0;
+}
+#header {
+	border: 1px solid black;
+	padding: 0;
+}
